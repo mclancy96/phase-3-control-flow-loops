@@ -1,5 +1,3 @@
-require 'pry'
-
 def happy_new_year
   10.downto 1 do |num|
     puts num
